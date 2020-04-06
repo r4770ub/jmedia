@@ -1,0 +1,11 @@
+dev/utility/jmedia/jvideo/JVideoCropper.class
+dev/utility/jmedia/FFMPEG.class
+dev/utility/jmedia/jvideo/JVideoConverter.class
+dev/utility/jmedia/JMediaConfigurations.class
+dev/utility/jmedia/jvideo/JVideoTools.class
+dev/utility/jmedia/jvideo/JVideoCompressor.class
+dev/utility/jmedia/jaudio/JAudioTools.class
+dev/utility/jmedia/JMedia.class
+dev/utility/jmedia/jvideo/JVideoExtractor.class
+dev/utility/jmedia/jaudio/JAudioCompressor.class
+dev/utility/jmedia/jaudio/JAudioExtractor.class
